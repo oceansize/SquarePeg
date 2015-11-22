@@ -22,7 +22,7 @@ I propose an application that can take the specification of some advertising spa
 
 The most immediately useful software that one could come up with in this context is something that compares the specifications of the ad space, with existing artwork. Drilling down even more, looking at the aspect ratio of say, a newspaper ad and comparing it with the dimensions of a piece of artwork would be enough to get started. If the problem this would solve is a little tricky to understand, perhaps an example would help:
 
-![](images/adExample.gif)
+![](https://github.com/roidriscoll/GapFiller/blob/master/images/AdExample.gif?raw=true)
 
 In the animated example above, our youthful user will have identified that option #4 is by far and away the best fit for the ad space, and thus involves the least work to turn that artwork around quickly for maximum win.
 
