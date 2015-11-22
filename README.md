@@ -38,8 +38,7 @@ As it stands the app would be incredibly useful for most agencies and media owne
 
 While this might sound a little unreachable, I would like to point you to a javascript library which automatically crops photos based on detecting dominant contrast in an image:
 
-[Focal Point (article on
-DesignShack.com)](https://raw.githubusercontent.com/roidriscoll/GapFiller/master/images/AdExample.gif?token=ACI6tTDFnX2II0-fl7C7jtMkpqCOFjnaks5WWxIiwA%3D%3D)
+[SmartCropJS](https://github.com/jwagner/smartcrop.js)
 
 ### Proposed Stack
 
